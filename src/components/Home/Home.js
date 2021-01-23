@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className={styles.home}>
       <div className={styles.nav}>
-      <h1>Shoe Store</h1>
+      <h1>Shoes-Store</h1>
         <nav>
           <ul>
             <li><Link to="/">Home</Link></li>
