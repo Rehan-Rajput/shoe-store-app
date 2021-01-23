@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1))
+    ,url('https://eccoglobalcdn.azureedge.net/-/media/images/ecco/contentretainer/ss20/frontpage/apr/frontpage_sthree.jpg?w=1901');
+    background-position: center;
+    background-size: cover;
+}
+  
+
+.heading{
+    padding: 40px;
+    margin-bottom: 40px;
+    color: whitesmoke;
+}
+
+.btn{
+    width: 180px;
+    flex-basis: 50%;
+    border: 3px solid whitesmoke;
+    border-radius: 25px;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
